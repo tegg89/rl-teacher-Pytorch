@@ -11,3 +11,5 @@ For the convenience, Atari environment is used instead of Mujoco.
 I have referred to the original repository which is shown below:
 
 * [https://github.com/ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c)
+
+* [https://github.com/machine-intelligence/rl-teacher-atari](https://github.com/machine-intelligence/rl-teacher-atari)
